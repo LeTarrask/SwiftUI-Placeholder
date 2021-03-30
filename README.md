@@ -9,7 +9,9 @@
     </a>
 </p>
 
-Placeholder for SwiftUI is quick adaptation of Paul Hudson's Placeholder. It implements a SwiftUI struct the same way Paul used a UIImageView.
+Placeholder for SwiftUI is a helper struct View that helps visualize the available sizes for images when we're building wireframes.
+
+This project is inspired by and a SwiftUI version of [Paul Hudson's Placeholder](https://github.com/twostraws/Placeholder) for UIKit. It implements a SwiftUI struct the same way Paul used a UIImageView.
 
 Here's his reasoning:
 
