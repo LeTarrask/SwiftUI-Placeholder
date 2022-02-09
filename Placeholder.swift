@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct Placeholder: View {
+struct MeasurePlaceholder: View {
     var color: Color = .white
     var title: String = "Placeholder"
 
@@ -31,6 +31,6 @@ struct Placeholder: View {
 
 struct Placeholder_Previews: PreviewProvider {
     static var previews: some View {
-        Placeholder()
+        MeasurePlaceholder()
     }
 }
